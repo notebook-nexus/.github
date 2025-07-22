@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/a3/f8/44/a3f8441cc0e2b9e1bd05e067ae1895bc.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/57/21/80/572180f14ca898855666a11eae35263b.gif"  />
 
 ### Building the future, one commit at a time
 
