@@ -66,16 +66,6 @@ Our mission is to deliver best notebooks that help or solves an important proble
 
 ---
 
-## 📊 Organization Stats
-
-<div align="center">
-
-
-
-</div>
-
----
-
 ## 🤝 Get Involved
 
 We believe in the power of collaboration and welcome contributions from developers of all skill levels!
