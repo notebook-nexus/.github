@@ -87,8 +87,6 @@ We believe in the power of collaboration and welcome contributions from develope
 5. **Test** thoroughly
 6. **Submit** a pull request
 
-Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions.
-
 ---
 
 ## 📞 Contact Us
@@ -107,7 +105,7 @@ Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions.
 
 **⭐ Star our repositories if you find them useful!**
 
-Made with ❤️ by the uikraft-hub
+Made with ❤️ by the notebook-nexus
 
 *© 2025 Your Organization Name. All rights reserved.*
 
