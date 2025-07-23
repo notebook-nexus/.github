@@ -105,8 +105,8 @@ We believe in the power of collaboration and welcome contributions from develope
 
 **⭐ Star our repositories if you find them useful!**
 
-Made with ❤️ by the notebook-nexus
+Made with ❤️ by the Ujjwal Nova
 
-*© 2025 Your Organization Name. All rights reserved.*
+*© 2025 notebook-nexus. All rights reserved.*
 
 </div>
